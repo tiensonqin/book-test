@@ -1,0 +1,5 @@
+= Test Book
+:toc:
+
+include::00_preface/preface.adoc
+include::01_content/content.adoc
