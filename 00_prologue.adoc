@@ -1,4 +1,4 @@
-== Preface
+== Prologue
 
 The primary goal of this book is to provide mid-length examples of
 Clojure code that go beyond the basics, with a focus on real-world,
