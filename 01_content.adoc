@@ -1,4 +1,4 @@
-=== Content
+== Content
 
 Clojure is a fantastic language for tackling hard problems. Its
 _simple_ tools let us software developers build up layer upon layer of
@@ -15,7 +15,7 @@ disposal.] strings, numeric types, dates, Universally Unique Identifiers (UUIDs)
 has it all. This chapter dives into the primitives of Clojure and how
 to accomplish common tasks.
 
-==== Strings
+=== Strings
 
 Almost every programming language knows how to work with and deal in
 strings. Clojure is no exception, and despite a few differences,
@@ -59,7 +59,7 @@ kind of odd, so we prefer to alias it to +str+ or +s+:
 ;; -> true
 ----
 
-==== Numeric Types
+=== Numeric Types
 
 The veneer between Clojure and Java is a little thicker over the
 numeric types. This isn't necessarily a bad thing, though. While
@@ -72,7 +72,7 @@ The recipes on numeric types in this chapter will show you how to work with
 these hatches, showing you how to be as fast or precise or expressive
 as you desire.
 
-==== Dates
+=== Dates
 
 Dates and times have a long and varied history in the Java
 ecosystem. Do you want a +Date+, +Time+, +DateTime+, or +Calendar+?

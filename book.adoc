@@ -1,0 +1,9 @@
+= Book test
+Author Name <author@example.org>
+:doctype: book
+:toc: left
+:imagesdir: images
+
+include::00_prologue.adoc[]
+
+include::01_content.adoc[]
